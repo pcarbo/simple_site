@@ -63,15 +63,14 @@ Edit the
 
     title : simple site
     author :
-      name : Karl Broman
-      email : kbroman@gmail.com
-      github : kbroman
-      twitter : kwbroman
+      name : Peter Carbonetto
+      email : peter.carbonetto@gmail.com
+      github : pcarbo
       feedburner : nil
 
 Edit the
 [`production_url` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L19)
-by replacing `kbroman` with _your_ github user name, and replace
+by replacing `pcarbo` with _your_ github user name, and replace
 `simple_site` with the name that your repository will have on github
 (`something_meaningful`?).
 
